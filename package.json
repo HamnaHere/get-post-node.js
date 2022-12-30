@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^6.8.1",
+    "node-modules": "^1.0.1",
+    "nodemon": "^2.0.20"
+  },
+  "name": "express-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
